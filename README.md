@@ -18,11 +18,20 @@ So Here Goes!
   </summary>
 
 ```
-=> ceil(√ 7)! - 7/7
-=> ciel(√ 7)! - 1
+=> ceil(√7)! - 7/7
+=> ciel(√7)! - 1
 => ciel(2.64)! - 1
 => 3! - 1
 -> 6 - 1
+=> 5
+```
+There are also other ways, such as
+```
+=> floor(√7)² + 7/7
+=> floor(√7)² + 1
+=> floor(2.64)² + 1
+=> 2² + 1
+=> 4 + 1
 => 5
 ```
 </details>
